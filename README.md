@@ -1,10 +1,10 @@
+###  👩‍💻 About Me <br> 
+
 <p align="left">
-👩‍💻 About Me <br>
   💡 Frontend development enthusiast focused on building clean, responsive, and user-friendly web interfaces.<br>
   🛠️ Passionate about <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and currently learning <b>Python</b> and <b>React</b>.<br>
   🎨 Loves turning design concepts into interactive experiences, exploring new technologies, and learning by building.<br>
   🌱 Values clean code, intuitive UI/UX, and consistent self-improvement.<br>
-  🎧 When not coding, often experimenting with layouts, sketching designs, or exploring new dev tools.
 </p>
 
 
@@ -21,7 +21,9 @@
 
 ### 📈 GitHub Activity
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=binishaa1131&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binishaa1131&layout=compact&theme=rose_pine" />
