@@ -35,6 +35,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binishaa1131&layout=compact&theme=rose_pine" />
+</p>
+
+
 ### 📬 Let's Connect
 
 <p align="center">
