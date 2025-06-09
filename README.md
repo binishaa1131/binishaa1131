@@ -1,10 +1,10 @@
 ###  👩‍💻 About Me <br> 
 
 <p align="left">
-Frontend development enthusiast focused on building clean, responsive, and user-friendly web interfaces. 💡 <br>
-Passionate about <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and currently learning <b>Python</b> and <b>React</b>.🛠️ <br>
-Loves turning design concepts into interactive experiences, exploring new technologies, and learning by building. 🎨 <br>
-Values clean code, intuitive UI/UX, and consistent self-improvement.🌱<br>
+💡Frontend development enthusiast focused on building clean, responsive, and user-friendly web interfaces.  <br>
+🛠️Passionate about <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and currently learning <b>Python</b> and <b>React</b>. <br>
+🎨Loves turning design concepts into interactive experiences, exploring new technologies, and learning by building. <br>
+🌱Values clean code, intuitive UI/UX, and consistent self-improvement.<br>
 </p>
 
 
